@@ -1,0 +1,10 @@
+{
+  "name": "testlink",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Robert Zaremba",
+  "license": "MIT",
+  "dependencies": {
+    "truffle": "^5.1.9"
+  }
+}
